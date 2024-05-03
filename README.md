@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dattashomo11@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/shyam/AppData/Local/Microsoft/Windows/INetCache/IE/2UB59GDG/my_resume_.docx[1].pdf](file:///C:/Users/shyam/AppData/Local/Microsoft/Windows/INetCache/IE/2UB59GDG/my_resume_.docx[1].pdf)
+- 📄 Know about my experiences [https://pdf.ac/3hN5PD](https://pdf.ac/3hN5PD)
 
 - ⚡ Fun fact **You once learned how to solve a Rubik's Cube in under a minute!🤣**
 
