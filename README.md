@@ -1,4 +1,5 @@
-![logo](https://github.com/shamayitadatta/shamayitadatta/blob/main/Brown%20Wood%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![logo](![cover linkdien pic](https://github.com/user-attachments/assets/5b3e8b40-6147-4af7-8c96-660e7884ea3b)
+)
 <h1 align="center">Hi 👋, I'm Shamayita Datta</h1>
 <h3 align="center">A passionate frontend developer, data analyst, and AI enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
